@@ -1,5 +1,4 @@
 /*
- * @author panks
  * Big Integer library in C++, single file implementation.
  */
 #include <iostream>
